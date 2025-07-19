@@ -7,6 +7,7 @@ A simple web application that tells you the day of the week for any date you sel
 ## 📋 General Description
 
 **Day of Week** is a small, handy, and educational tool that lets you:
+
 - 📅 Select a date using a date picker
 - 🔍 See the corresponding **day of the week** (e.g., Monday, Tuesday, etc.)
 - ♻️ Easily reset the input
@@ -35,7 +36,6 @@ A simple web application that tells you the day of the week for any date you sel
 
 You can add a preview image here:
 
-```markdown
 ![Day of Week Preview](./screenshot.png)
 
 🔗 Live Demo
@@ -50,8 +50,10 @@ Day-of-Week/
 ├── script.js
 ├── screenshot.png
 └── README.md
+```
 
 ## 📄 License
+
 This project is open-source under the MIT license.
 
 ### 🌐 Langue / Language
